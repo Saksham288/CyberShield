@@ -1,0 +1,9 @@
+ERROR: Database connection failed
+WARNING: Firewall disabled
+FAILED LOGIN: admin
+INFO: User logged in
+FAILED LOGIN: guest
+ERROR: Access denied
+WARNING: Low disk space
+ERROR: Invalid Request
+FAILED LOGIN: root
